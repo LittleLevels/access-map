@@ -11,6 +11,6 @@ Start: 15th and 42nd, Seattle WA
 End: Pacific and Montlake, Seattle WA  
 Bus stops are shown in orange circles and routes are colored as outlined above.   
 
-![](\master\routesUW.png?raw=true)
+![](\master\routesUW.png)
 
 
