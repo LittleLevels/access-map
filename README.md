@@ -7,10 +7,10 @@ The example finds four pedestrian routes based on costs related to having to cro
 The sql files are for use with a postgreSQL database loaded with OSM data using osm2pgrouting. They have been hardcoded with a start and end location. In this case, two bus stops in the Unversity District in Seattle, WA.
 
 Example output comparing the routes is visualized in QGIS:
-Start: 15th and 42nd, Seattle WA
-End: Pacific and Montlake, Seattle WA
-Bus stops are shown in orange circles and routes are colored as outlined above.
+Start: 15th and 42nd, Seattle WA  
+End: Pacific and Montlake, Seattle WA  
+Bus stops are shown in orange circles and routes are colored as outlined above.   
 
-![](\access-map\routesUW.png?raw=true)
+![](\routesUW.png?raw=true)
 
 
