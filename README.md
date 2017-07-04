@@ -1,5 +1,6 @@
 # access-map
 
+## Intro
 This explores pedestrian routes between two bus stops with different cost functions using Open Street Map data and pgRouting. The ultimate goal is to improve the transfer experience for transit users with various mobility constraints.
 
 The sql files are for use with a postgreSQL database loaded with OSM data using osm2pgrouting. They have been hardcoded with a start and end location. In this case, two bus stops in the University District in Seattle, WA.
