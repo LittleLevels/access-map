@@ -1,4 +1,5 @@
-# This is the default osm2pgsql .style file that comes with osm2pgsql.
+# This is  slightly edited from the default osm2pgsql .style file that comes with osm2pgsql.
+# Adds necessary way types for tagging.
 #
 # A .style file has 4 columns that define how OSM objects end up in tables in
 # the database and what columns are created. It interacts with the command-line
