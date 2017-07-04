@@ -12,7 +12,7 @@ The example finds four pedestrian routes based on costs related to having to cro
 Example output comparing the routes is visualized in QGIS:   
 Start: 15th and 42nd, Seattle WA  
 End: Pacific and Montlake, Seattle WA  
-Bus stops are shown in orange circles and routes are colored as outlined above.   
+Bus stops are shown in orange circles, sidewalks are purple and routes are colored as outlined above.   
 
 ![](routesUW.png)
 
